@@ -1,5 +1,5 @@
-# Gaming Engines: Unity Real-Time Development Platform 
-# (3D, 2D, VR & AR)
+# Gaming Engines: Unity Real-Time Development Platform (3D, 2D, VR & AR)
+
 
 What is a gaming engine?
 A game engine is like the beating heart of a video game. It's a software framework that provides developers with a set of tools, libraries, and features to create, design, and develop games more efficiently. Think of it as a foundation that handles complex tasks like rendering graphics, managing physics, handling input, and even dealing with things like sound and AI.
