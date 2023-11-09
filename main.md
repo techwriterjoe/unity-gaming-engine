@@ -13,7 +13,7 @@ Unity is like a digital playground where game developers bring their creative vi
 One of the coolest things about Unity is its flexibility. Whether you're into 2D or 3D games, Unity has your back. It comes with a vast library of assets and a vibrant community, making it easier for developers to collaborate and share ideas. Plus, the real-time development feature lets you see changes instantly, saving you from the endless cycle of compile-run-check-repeat.
 Imagine Unity as the wizard's wand for game developers, waving away the complexities of coding and rendering, so they can focus on what really matters: crafting amazing gaming experiences.
 
-## How does Unity gaming engine interact with ReSTful APIs?
+## How Does Unity Gaming Engine Interact With ReSTful APIs?
 Unity can interact with a REST API (Representational State Transfer Application Programming Interface) to fetch or send data between a game and a server. This is often used for tasks like retrieving player information, updating scores, or syncing game progress across devices.
 Unity doesn't have built-in support for REST API calls, but developers commonly use C# scripts, Unity's primary scripting language, to make HTTP requests to a server. The WWW class in Unity is often employed for this purpose. Here's a simple example:
 
